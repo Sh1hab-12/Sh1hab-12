@@ -24,7 +24,7 @@
 
 ### 📌 Learning Roadmap & Milestones
 
-- [x] **SQL Fundamentals** — Basic queries, filtering, sorting, and aggregations
+- [ ] **SQL Fundamentals** — Basic queries, filtering, sorting, and aggregations
 - [ ] **Advanced SQL Mastery** — Joins, subqueries, CTEs, and window functions in SSMS
 - [ ] **Advanced Excel for Analytics** — Data cleaning, lookup functions, pivot tables, and data modeling
 - [ ] **Python for Data Analysis** — Data manipulation and exploratory analysis with Pandas & NumPy
