@@ -5,7 +5,7 @@
 - 🎓 **Education:** Student at Zagazig University
 - 🎯 **Career Goal:** Aspiring Data Analyst (Real Estate & Business Intelligence Focus)
 - 💡 **Currently Learning:** Advanced SQL, Excel, Python & Real Estate Analytics
-- 🔭 **Current Focus:** Building data-driven market models and financial investment insights
+- 🔭 **Current Focus:** Combining data analytics tools with real estate market intelligence and business concepts
 ---
 
 ### 🛠️ Tech Stack & Tools
