@@ -24,20 +24,31 @@
 
 ### 📌 Learning Roadmap & Milestones
 
-- [x] **SQL Fundamentals** — Basic queries, filtering (`WHERE`), sorting (`ORDER BY`), and aggregations (`GROUP BY`, `HAVING`)
-- [ ] **Advanced SQL & Database Mastery** — Joins, subqueries, CTEs, and window functions in SSMS
+- [x] **SQL Fundamentals** — Basic queries, filtering, sorting, and aggregations
+- [ ] **Advanced SQL Mastery** — Joins, subqueries, CTEs, and window functions in SSMS
 - [ ] **Advanced Excel for Analytics** — Data cleaning, lookup functions, pivot tables, and data modeling
 - [ ] **Python for Data Analysis** — Data manipulation and exploratory analysis with Pandas & NumPy
-- [ ] **Domain Analytics** — Applying SQL & data tools to Real Estate Market Trends & Business Intelligence
+- [ ] **Real Estate Data Analytics:**
+  - **Market Trends & Valuation** — Property pricing, location trends, and housing data modeling
+  - **Investment Metrics** — ROI calculation, financial feasibility, and yield analysis
+  - **Business Intelligence** — Revenue modeling, vacancy tracking, and commercial strategy
 - [ ] **Portfolio Development** — Building and documenting end-to-end data analysis projects
 ---
 
 ### 📬 Connect With Me
-<p align="left">
-  <a href="https://instagram.com/sh1hab_12" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  <a href="https://instagram.com/sh1hab_12" target="blank"></a>
+  &nbsp;&nbsp;
+  <a href="mailto:shihabgetb@gmail.com" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/Sh1hab-12" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
 </p>
