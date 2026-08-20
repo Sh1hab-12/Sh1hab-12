@@ -1,11 +1,11 @@
 # Hi there, I'm Shihab 👋
 
 ### 👨‍💻 About Me
-- 🎓 **Education:** Student at **Zagazig University**
-- 🎯 **Career Goal:** Aspiring **Data Analyst**
-- 💡 **Currently Learning:** SQL (Database Design, Joins, Aggregations, Window Functions), Python & Business Intelligence
-- 🛠️ **Tools & Technologies:** SQL, Microsoft SQL Server (SSMS), Git & GitHub
 
+- 🎓 **Education:** Student at Zagazig University
+- 🎯 **Career Goal:** Aspiring Data Analyst (Real Estate & Business Intelligence Focus)
+- 💡 **Currently Learning:** Advanced SQL, Excel, Python & Real Estate Analytics
+- 🔭 **Current Focus:** Building data-driven market models and financial investment insights
 ---
 
 ### 🛠️ Tech Stack & Tools
