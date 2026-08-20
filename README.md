@@ -37,18 +37,19 @@
 
 ### 📬 Connect With Me
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  <a href="https://instagram.com/sh1hab_12" target="blank"></a>
-  &nbsp;&nbsp;
-  <a href="mailto:shihabgetb@gmail.com" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
+  <a href="https://instagram.com/sh1hab_12" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Sh1hab-12" target="blank">
+  <a href="mailto:shihabgetb@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="gmail" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Sh1hab-12" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
 </p>
