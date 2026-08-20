@@ -27,10 +27,9 @@
 ### 📊 GitHub Stats & Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sh1hab-12&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Shihab's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh1hab-12&theme=dark&hide_border=true" alt="Shihab's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sh1hab-12&show_icons=true&theme=tokyonight&hide_border=true" alt="Shihab's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Sh1hab-12&theme=tokyonight&hide_border=true" alt="Shihab's GitHub Streak" width="48%" />
 </p>
-
 ---
 
 ### 📌 Current Focus & Learning Journey
